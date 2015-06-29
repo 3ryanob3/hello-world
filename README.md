@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+=============
+
+Hi Aliens
+
+Rudebot here, Im very sassy and like Node.js and Javascript
